@@ -5,16 +5,16 @@ This is the third project for the Udacity Full Stack Web Developer Nanodegree. I
 
 The database includes three tables:
 
-Authors table
-Articles table
-Log table
+- Authors table
+- Articles table
+- Log table
 
 ## To Run
 
 ### Software:
-Python3
-Vagrant
-VirtualBox
+- Python3
+- Vagrant
+- VirtualBox
 
 ### Setup
 * <h4>Install <a href="https://www.vagrantup.com/">Vagrant</a> and <a href="https://www.virtualbox.org/wiki/Downloads">VirtualBox.</a></h4>
