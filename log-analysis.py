@@ -43,8 +43,7 @@ def connect():
 
 
 def get_query_results(query):
-    """Connect to the PostgreSQL database.
-    Return query results for given query """
+    """Return query results for given query """
     db, cursor = connect()
     cursor.execute(query)
     result = cursor.fetchall()
