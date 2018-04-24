@@ -28,5 +28,5 @@ The database includes three tables:
   To load the database use the following command:
   <pre>psql -d news -f newsdata.sql;</pre>
 * <h4>Run Module</h4>
-  <pre>python log.py</pre>
+  <pre>python log-analysis.py</pre>
   
